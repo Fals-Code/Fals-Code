@@ -22,8 +22,8 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Repositories-8-4DD0E1?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Followers-2-4DD0E1?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/github/directory-stats/count/Fals-Code?style=flat-square&logo=github&label=Repositories&color=4DD0E1&logoColor=white"/>
+  <img src="https://img.shields.io/github/followers/Fals-Code?style=flat-square&logo=github&label=Followers&color=4DD0E1&logoColor=white"/>
   <img src="https://img.shields.io/badge/Location-Gresik%2C%20Indonesia-4DD0E1?style=flat-square&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/University-Universitas%20Airlangga-4DD0E1?style=flat-square&logo=academia&logoColor=white"/>
 </p>
