@@ -22,7 +22,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/directory-stats/count/Fals-Code?style=flat-square&logo=github&label=Repositories&color=4DD0E1&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FFals-Code&style=flat-square&logo=github&color=4DD0E1&logoColor=white"/>
   <img src="https://img.shields.io/github/followers/Fals-Code?style=flat-square&logo=github&label=Followers&color=4DD0E1&logoColor=white"/>
   <img src="https://img.shields.io/badge/Location-Gresik%2C%20Indonesia-4DD0E1?style=flat-square&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/University-Universitas%20Airlangga-4DD0E1?style=flat-square&logo=academia&logoColor=white"/>
