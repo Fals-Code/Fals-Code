@@ -1,12 +1,13 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                      HEADER                           -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,25:feca57,50:48dbfb,75:ff9ff3,100:54a0ff&height=220&section=header&text=Ahmad%20Mathlaul%20Falah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=ffffff&strokeWidth=1&desc=⚡%20Backend%20Developer%20%7C%20Laravel%20Enthusiast%20%7C%20Informatika%20UNAIR&descAlignY=62&descSize=15&descColor=ffffff"/>
 
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&width=650&height=50&lines=🚀+Building+backends+that+actually+scale;🔥+Laravel+%7C+PHP+%7C+MySQL+%7C+REST+API;🌱+Learning+something+new+every+single+day;💡+Clean+code+is+not+optional%2C+it's+respect;🎯+Future+Backend+Engineer+%2F+CTO" alt="Typing SVG" />
-</a>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=FF6B6B&center=true&vCenter=true&width=650&height=45&lines=🚀+Building+backends+that+actually+scale;🔥+Laravel+%7C+PHP+%7C+MySQL+%7C+REST+API;🌱+Learning+something+new+every+single+day;💡+Clean+code+is+not+optional%2C+it's+respect;🎯+Future+Backend+Engineer+%2F+CTO" alt="Typing SVG" />
 
 <br/>
 
@@ -25,16 +26,18 @@
 <br/><br/>
 
 <!-- LIVE QUICK STATS -->
-<img src="https://img.shields.io/github/followers/Fals-Code?style=flat-square&logo=github&label=Followers&color=48DBFB&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/Fals-Code?style=flat-square&logo=github&label=Followers&color=48DBFB"/>
 <img src="https://img.shields.io/badge/Location-Gresik%2C%20Indonesia-FF9FF3?style=flat-square&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/University-UNAIR-FECA57?style=flat-square&logo=academia&logoColor=black"/>
-<img src="https://img.shields.io/badge/Focus-Backend%20Dev-FF6B6B?style=flat-square&logo=server&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Backend%20Dev-FF6B6B?style=flat-square"/>
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&title_color=FF6B6B&icon_color=FECA57&text_color=ffffff&border_color=FF6B6B&border_radius=12&count_private=true&include_all_commits=true&rank_icon=github"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                     ABOUT ME                          -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 ### 👋 Halo, saya Falah!
 
@@ -50,9 +53,11 @@ Saya jatuh cinta sama backend bukan karena keren-kerenan — tapi karena ada kep
 
 > *"Code yang bisa dibaca orang lain itu lebih berharga dari code yang cuma bisa dibaca compiler."*
 
-<br clear="right"/>
-
 ---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    TECH STACK                         -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -84,73 +89,107 @@ Saya jatuh cinta sama backend bukan karena keren-kerenan — tapi karena ada kep
 <img src="https://img.shields.io/badge/REST%20API-00D2AA?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-</div>
+<br/>
 
----
-
-## 📊 GitHub Analytics (Live)
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=donut&theme=radical&hide_border=false&bg_color=0d1117&title_color=FECA57&text_color=ffffff&border_color=FECA57&border_radius=12&langs_count=8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=merko&hide_border=false&bg_color=0d1117&title_color=48DBFB&icon_color=FF9FF3&text_color=ffffff&border_color=48DBFB&border_radius=12&count_private=true&include_all_commits=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Fals-Code&theme=radical&hide_border=false&border_radius=12&date_format=j%20M%5B%2C%20Y%5D&ring=FF6B6B&fire=FECA57&currStreakLabel=48DBFB&sideLabels=FF9FF3&stroke=54A0FF"/>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&bg_color=0d1117&color=FECA57&line=FF6B6B&point=48DBFB&area=true&area_color=FF6B6B&hide_border=false&border_radius=12&custom_title=Contribution%20Graph%20(Live)"/>
+<!-- SKILL ICONS - more reliable than skillicons.dev -->
+<img src="https://img.shields.io/badge/─────────────────────────────────-0d1117?style=for-the-badge"/>
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATS                         -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats (Live)
+
+<div align="center">
+
+<!-- Stats card - menggunakan token publik, reliable -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=FECA57&text_color=ffffff&border_radius=12&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+&nbsp;
+<!-- Top languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FECA57&text_color=ffffff&border_radius=12&langs_count=8&cache_seconds=1800"/>
+
+</div>
+
+<div align="center">
+
+<!-- Streak stats - demolab lebih stabil -->
+<img src="https://streak-stats.demolab.com/?user=Fals-Code&theme=radical&hide_border=true&border_radius=12&date_format=j%20M%5B%2C%20Y%5D&ring=FF6B6B&fire=FECA57&currStreakLabel=48DBFB&sideLabels=FF9FF3&background=0d1117&cache_seconds=1800"/>
+
+</div>
+
+<div align="center">
+
+<!-- Activity graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&bg_color=0d1117&color=FECA57&line=FF6B6B&point=48DBFB&area=true&area_color=2c1b1b&hide_border=true&radius=8&custom_title=📈%20Contribution%20Activity%20(Live)"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                 FEATURED PROJECTS                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Fals-Code/Proyek_RSHP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_RSHP&theme=radical&hide_border=false&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff&icon_color=FECA57&border_color=FF6B6B&border_radius=12"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_RSHP&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff&icon_color=FECA57&border_radius=12&cache_seconds=1800"/>
 </a>
+&nbsp;
 <a href="https://github.com/Fals-Code/Proyek_RSHPV1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_RSHPV1&theme=merko&hide_border=false&bg_color=0d1117&title_color=48DBFB&text_color=ffffff&icon_color=FF9FF3&border_color=48DBFB&border_radius=12"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_RSHPV1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=48DBFB&text_color=ffffff&icon_color=FF9FF3&border_radius=12&cache_seconds=1800"/>
 </a>
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    TROPHIES                           -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies (Live)
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Fals-Code&theme=radical&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Fals-Code&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4&row=2"/>
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              CONTRIBUTION SNAKE                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
+> ⚡ Untuk mengaktifkan snake animation, kamu perlu:
+> 1. Buat repo baru bernama **`Fals-Code`** (sama persis dengan username GitHub kamu)
+> 2. Tambahkan file `.github/workflows/snake.yml` dengan isi dari [platane/snk](https://github.com/platane/snk)
+> 3. Setelah Actions berjalan, snake otomatis muncul di bawah ini 👇
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fals-Code/Fals-Code/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fals-Code/Fals-Code/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fals-Code/Fals-Code/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Fals-Code/Fals-Code/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
-> 💡 **Setup snake:** Pastikan repo `Fals-Code/Fals-Code` sudah dibuat dan tambahkan GitHub Actions dari [platane/snk](https://github.com/platane/snk) agar animasi snake muncul otomatis setiap hari.
-
 ---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   CONNECT                             -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 📬 Let's Connect
 
