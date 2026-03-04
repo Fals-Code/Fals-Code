@@ -101,22 +101,19 @@ class AhmadMathlaul extends Developer
 
 ## 📂 Featured Projects
 
-[![Proyek RSHP](https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_PBDV1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&icon_color=4DD0E1&border_radius=10)](https://github.com/Fals-Code/Proyek_RSHP)
-[![Proyek RSHPV1](https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_RSHPV1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&icon_color=4DD0E1&border_radius=10)](https://github.com/Fals-Code/Proyek_RSHPV1)
+| Project Name | Tech Stack | Description |
+|---|---|---|
+| [Proyek RSHP](https://github.com/Fals-Code/Proyek_PBDV1) | `Laravel` `MySQL` | Sistem informasi Rumah Sakit Hewan dengan manajemen antrean. |
+| [Proyek RSHPV1](https://github.com/Fals-Code/Proyek_RSHPV1) | `PHP` `Blade` | Versi awal pengembangan platform digital untuk operasional RSHP. |
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Analytics
 
-### My Stats & Languages
-![Stats](https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&icon_color=4DD0E1&text_color=e0f2f1&border_radius=10&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&border_radius=10)
+https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
 
-### Current Streak
-![Streak](https://streak-stats.demolab.com?user=Fals-Code&theme=tokyonight&hide_border=true&background=0d1117&ring=4DD0E1&fire=4DD0E1&currStreakLabel=4DD0E1&border_radius=10)
-
-### Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&bg_color=0d1117&color=4DD0E1&line=203a43&point=4DD0E1&area=true&hide_border=true&border_radius=10)
+### ⚡ Weekly Activity
+https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&bg_color=0d1117&color=4DD0E1&line=203a43&point=4DD0E1&area=true&hide_border=true
 
 
 <div align="center">
