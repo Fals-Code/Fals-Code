@@ -84,46 +84,39 @@ class AhmadMathlaul extends Developer
 </div>
 
 
-# Tech Stack & Skills
+# 🛠️ Tech Stack & Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Core Expertise
+### 🚀 Core Expertise
 * **Backend:** PHP & Laravel Ecosystem (Eloquent, Middleware, Auth).
 * **Database:** Relational Database Design using MySQL.
 * **Frontend:** Blade Templating, Responsive UI with CSS.
-* **Current Focus:** Deep diving into **RESTful API Architecture** and modern **JavaScript**.
+* **Current Focus:** Deep diving into **RESTful API Architecture**.
 
-## Featured Projects
+---
 
-<div align="center">
-  <a href="https://github.com/Fals-Code/Proyek_PBDV1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_RSHP&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&icon_color=4DD0E1&border_radius=10" />
-  </a>
-  <a href="https://github.com/Fals-Code/Proyek_RSHPV1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_RSHPV1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&icon_color=4DD0E1&border_radius=10" />
-  </a>
-</div>
+## 📂 Featured Projects
 
-## GitHub Insights
+[![Proyek RSHP](https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_PBDV1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&icon_color=4DD0E1&border_radius=10)](https://github.com/Fals-Code/Proyek_RSHP)
+[![Proyek RSHPV1](https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_RSHPV1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&icon_color=4DD0E1&border_radius=10)](https://github.com/Fals-Code/Proyek_RSHPV1)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&icon_color=4DD0E1&text_color=e0f2f1&border_radius=10&count_private=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&border_radius=10" />
-</p>
+---
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Fals-Code&theme=tokyonight&hide_border=true&background=0d1117&ring=4DD0E1&fire=4DD0E1&currStreakLabel=4DD0E1&border_radius=10" />
-</p>
+## 📊 GitHub Insights
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&bg_color=0d1117&color=4DD0E1&line=203a43&point=4DD0E1&area=true&hide_border=true&border_radius=10" />
-</p>
+### My Stats & Languages
+![Stats](https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&icon_color=4DD0E1&text_color=e0f2f1&border_radius=10&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&border_radius=10)
+
+### Current Streak
+![Streak](https://streak-stats.demolab.com?user=Fals-Code&theme=tokyonight&hide_border=true&background=0d1117&ring=4DD0E1&fire=4DD0E1&currStreakLabel=4DD0E1&border_radius=10)
+
+### Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&bg_color=0d1117&color=4DD0E1&line=203a43&point=4DD0E1&area=true&hide_border=true&border_radius=10)
 
 
 <div align="center">
