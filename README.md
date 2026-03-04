@@ -1,85 +1,54 @@
 <div align="center">
 
-<!-- 🌀 Animated Entrance Banner -->
-<img src="https://capsule-render.vercel.app/api?type=ellipse&height=200&color=0:FF6B6B,100:4ECDC4&text=Fals-Code&fontSize=80&fontAlignY=50&animation=scaleIn&fontColor=ffffff" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a3e,100:0d1117&height=200&section=header&text=Ahmad%20Mathlaul%20Falah&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Laravel%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" />
 
-<!-- ✨ Sparkles Effect -->
-<img src="https://capsule-render.vercel.app/api?type=spark&text=%F0%9F%92%96%20Welcome%20to%20my%20Profile%20%F0%9F%92%96&fontSize=25&color=0:FF6B6B,100:4ECDC4&animation=fadeIn&delay=500" width="100%"/>
-
-<!-- 🎯 Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=FF6B6B&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%BB%9F;Problem+Solver+%E2%9C%A8;Creative+Coder+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing Animation" />
+<a href="https://github.com/Fals-Code">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Falah+%F0%9F%91%8B;Backend+Developer+%7C+Laravel+Enthusiast;D4+Teknik+Informatika+%40+UNAIR;Fokus+pada+sistem+yang+rapi+%26+efisien+%F0%9F%9A%80;Open+for+Collaboration!" alt="Typing SVG" />
 </a>
 
-<!-- 🌈 Animated Separator -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=50&section=header&animation=slideDown" width="100%"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Fals-Code&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS" />
+&nbsp;
+<a href="https://github.com/Fals-Code?tab=followers">
+  <img src="https://img.shields.io/github/followers/Fals-Code?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" />
+</a>
+&nbsp;
+<a href="https://ahmad-mathlaul-falah.pages.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
+</a>
 
 </div>
 
 ---
 
-<!-- 💫 Social Links dengan Animasi Gradient -->
-<div align="center">
+## 🧑‍💻 About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/fals-code)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/falahh.am?igsh=MTQ1b2oyODBsZ25lYg%3D%3D)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=Firefox&logoColor=white&style=flat)](https://ahmad-mathlaul-falah.pages.dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat)](mailto:ahmadmathlaulfalah14@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/fals-code)
+```php
+<?php
 
-</div>
+class Falah extends BackendDeveloper
+{
+    public string $name     = "Ahmad Mathlaul Falah";
+    public string $username = "Fals-Code";
+    public string $edu      = "D4 Teknik Informatika — Universitas Airlangga";
+    public string $location = "Gresik — Surabaya, Indonesia";
+    public string $focus    = "Laravel · Database Design · System Logic";
+    public string $status   = "Open for Collaboration 🟢";
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=fals-code&label=Profile+Views&color=FF6B6B&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/fals-code?label=Followers&color=4ECDC4&style=for-the-badge)
-
-</div>
-
----
-
-## 🎭 About Me
-
-<div align="center">
-
-<!-- 🪞 Mirror Effect Card -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d3436,100:636e72&height=180&text=Hi%2C%20I%27m%20Ahmad%20Mathlaul%20Falah!&fontSize=28&fontColor=ffffff&animation=fadeIn" width="80%"/>
-
-</div>
-
-```javascript
-// 🚀 Personal Info
-const developer = {
-  name: "Ahmad Mathlaul Falah",
-  alias: "Fals-Code",
-  title: "Full-Stack Developer 💻",
-  location: "Indonesia 🇮🇩",
-  university: "University of Trunojoyo Madura",
-  email: "ahmadmathlaulfalah14@gmail.com",
-
-  // 💖 What I Love
-  passions: [
-    "🎨 Building Beautiful UIs",
-    "⚡ Creating Fast APIs",
-    "🧩 Solving Complex Problems",
-    "📚 Continuous Learning",
-    "🤝 Open Source Collaboration",
-  ],
-
-  // 🎯 Current Focus
-  currentlyWorking: "Building Amazing Projects",
-  learning: ["Next.js", "TypeScript", "Docker"],
-  funFact: "I turn caffeine into code ☕ → 💻",
-};
+    public function passion(): string
+    {
+        return "Ngoding bukan cuma soal bikin aplikasi jalan,
+        tapi bagaimana membangun sistem yang rapi dan mudah dikelola.";
+    }
+}
 ```
 
-### ✨ Highlights
-
-- 🔭 **Current Project:** Something awesome coming soon!
-- 🌱 **Learning:** Next.js, TypeScript, Docker & more
-- 💡 **Philosophy:** Code is poetry, bugs are features... just kidding 😄
-- 👯 **Looking to:** Collaborate on open source projects
-- ⚡ **Fun Fact:** I debug with console.log() and I'm not ashamed!
+- 🎓 Mahasiswa **D4 Teknik Informatika** di **Universitas Airlangga**
+- 🔧 Lebih suka bekerja di balik layar — **backend is home**
+- ⚡ Mendalami ekosistem **Laravel** dan **optimasi basis data**
+- 🏗️ Terbiasa membangun **sistem informasi terintegrasi** di lingkungan akademik
+- 📬 Reach me: **ahmadmathlaulfalah14@gmail.com**
 
 ---
 
@@ -87,123 +56,85 @@ const developer = {
 
 <div align="center">
 
-### Frontend Development 🌐
+### Languages & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-| Skill                                                                                                          | Badge                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)             | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)                | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
-
-### Backend Development ⚙️
-
-| Skill                                                                                                      | Badge                                                                                        |
-| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-
-### Database & Cloud ☁️
-
-| Skill                                                                                              | Badge                                                                                                             |
-| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-
-### Tools & DevOps 🔧
-
-| Skill                                                                                        | Badge                                                                                                 |
-| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+### Tools & Infrastructure
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🚀 Core Expertise
 
 <div align="center">
 
-### 🏆 Trophy Showcase
+| 🌐 Web Development | 🗄️ Database Management |
+|---|---|
+| Membangun aplikasi web fungsional dengan Laravel, fokus pada struktur kode yang rapi dan mudah dikelola. | Merancang skema relasional yang efisien menggunakan Eloquent ORM untuk integritas sistem. |
 
-<img src="https://github-profile-trophy.vercel.app/?username=fals-code&theme=neon&no-frame=true&margin-w=15&margin-h=15&column=6" width="100%"/>
-
-### 📈 Stats Overview
-
-|                                                                                                                                                                                                                     |                                                                                                                                                                                           |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fals-code&show_icons=true&theme=neon&hide_border=true&count_private=true&bg_color=0,0,0&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fals-code&layout=compact&theme=neon&hide_border=true&bg_color=0,0,0&title_color=FF6B6B&text_color=ffffff) |
-
-### 🔥 Streak Stats
-
-<img src="https://streak-stats.demolab.com?user=fals-code&theme=neon&hide_border=true&background=000000&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FF6B6B" width="100%"/>
-
-### 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fals-code&bg_color=0d1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area=true&hide_border=true" width="100%"/>
+| ⚙️ System Logic | 🔍 Tech Exploration |
+|---|---|
+| Menerjemahkan alur bisnis ke dalam logika backend yang solid sesuai kebutuhan pengguna. | Aktif mengeksplorasi ekosistem PHP/Laravel untuk terus meningkatkan standar koding. |
 
 </div>
 
 ---
 
-## 🗂️ Featured Projects
+## 📁 Featured Projects
 
 <div align="center">
 
-|  #  | Project                          | Description                                                                                                   | Tech Stack                  |
-| :-: | -------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------- | 
-|  1  | 📚 **[Framework Koleksi Buku](https://github.com/Fals-Code/Framework_koleksi_buku)** | Pengembangan sistem manajemen literatur digital yang mengintegrasikan struktur basis data untuk optimasi katalogisasi buku. | PHP, Laravel, MySQL         | 
-|  2  | 🏥 **[Proyek RSHP V1](https://github.com/Fals-Code/Proyek_RSHPV1)** | Implementasi sistem informasi manajemen rumah sakit (RSHP) guna memfasilitasi efisiensi administrasi medis dan data pasien. | PHP, Bootstrap, JavaScript  | 
-|  3  | 📊 **[Proyek PBD V1](https://github.com/Fals-Code/Proyek_PBDV1)** | Aplikasi berbasis data (PBD) yang dirancang untuk pengolahan informasi relasional dengan fokus pada integritas dan validasi data. | PHP, MySQL, CSS             | 
+| Project | Description | Tech | Repo |
+|---|---|---|---|
+| 🏥 **RSHP — Hospital Info System** | Sistem informasi rumah sakit: jadwal dokter & pendaftaran pasien terintegrasi secara real-time | `Laravel` `MySQL` `Blade` | [View →](https://github.com/Fals-Code/Proyek_RSHPV1) |
+| 📦 **Warehouse Inventory System** | Pencatatan stok barang masuk/keluar otomatis dengan relasi database kompleks | `Laravel` `Eloquent ORM` `MySQL` | [View →](https://github.com/Fals-Code/Proyek_PBDV1) |
+| 📚 **Book Collection Manager** | Eksperimen Laravel 11 untuk manajemen koleksi buku dengan fitur pencarian dinamis | `Laravel 11` `Migration` `In-Progress` | [View →](https://github.com/Fals-Code/Framework_koleksi_buku) |
 
 </div>
 
 ---
 
-## 📝 Recent Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Dynamic Recent Activity -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fals-code&theme=high-contrast" hidden/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fals-Code&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" />
 
-<!-- Placeholder for recent commits -->
+<br/>
 
-![Recent GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=fals-code&bg_color=1a1a2e&color=FF6B6B&line=4ECDC4&point=45B7D1&area=true&hide_border=true)
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
 ---
 
-## 💭 Random Dev Wisdom
+## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=round&theme=neon" width="100%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=5b21b6&point=ffffff" width="100%" />
 </div>
 
 ---
 
-## 🎮 Snake Game Animation
+## 🤝 Connect With Me
 
 <div align="center">
 
-![Snake Animation](https://github.com/fals-code/fals-code/blob/output/snake.svg)
-
-</div>
-
----
-
-## 📫 Reach Me
-
-<div align="center">
-
-<a href="https://www.instagram.com/falahh.am">
-  <img src="https://img.shields.io/badge/Instagram-FF6B6B?style=for-the-badge&logo=instagram&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://ahmad-mathlaul-falah.pages.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=Firefox&logoColor=white&style=for-the-badge" />
-</a>
-<a href="mailto:ahmadmathlaulfalah14@gmail.com">
-  <img src="https://img.shields.io/badge/Email-45B7D1?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmad--mathlaul--falah.pages.dev-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmad-mathlaul-falah.pages.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-Fals--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fals-Code)
+[![Instagram](https://img.shields.io/badge/Instagram-@falahh.am-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/falahh.am)
+[![Email](https://img.shields.io/badge/Email-ahmadmathlaulfalah14@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmathlaulfalah14@gmail.com)
 
 </div>
 
@@ -211,26 +142,10 @@ const developer = {
 
 <div align="center">
 
-<!-- 🌊 Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=100&section=footer&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-### 💖 Thank You for Visiting!
+<br/><br/>
 
----
-
-![Footer Animation](https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&animation=scaleIn&delay=1000)
-
-_Built by **Ahmad Mathlaul Falah** • **Fals-Code**_
-
-</div>
-
----
-
-<!-- 🎵 Hidden Easter Egg - Play Music -->
-<div align="center">
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=🎵+Click+me+for+a+surprise!&fontSize=12&color=666666" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:0f0c29&height=120&section=footer" />
 
 </div>
