@@ -101,19 +101,29 @@ class AhmadMathlaul extends Developer
 
 ## 📂 Featured Projects
 
-| Project Name | Tech Stack | Description |
-|---|---|---|
-| [Proyek RSHP](https://github.com/Fals-Code/Proyek_PBDV1) | `Laravel` `MySQL` | Sistem informasi Rumah Sakit Hewan dengan manajemen antrean. |
-| [Proyek RSHPV1](https://github.com/Fals-Code/Proyek_RSHPV1) | `PHP` `Blade` | Versi awal pengembangan platform digital untuk operasional RSHP. |
+### 🏥 [Proyek PBDV1](https://github.com/Fals-Code/Proyek_PBDV1)
+> Sistem informasi Rumah Sakit Hewan terintegrasi. Dibangun dengan **Laravel** untuk menangani manajemen antrean pasien secara efisien.
+
+### 🐾 [Proyek RSHPV1](https://github.com/Fals-Code/Proyek_RSHPV1)
+> Iterasi awal pengembangan platform digital operasional RSHP menggunakan **PHP Native** dan **Blade Templating**.
 
 ---
 
 ## 📊 GitHub Analytics
 
-https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+</p>
 
-### ⚡ Weekly Activity
-https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&bg_color=0d1117&color=4DD0E1&line=203a43&point=4DD0E1&area=true&hide_border=true
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&bg_color=0d1117&color=4DD0E1&line=203a43&point=4DD0E1&area=true&hide_border=true&cache_seconds=1800" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+---
 
 
 <div align="center">
