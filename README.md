@@ -1,215 +1,144 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                      HEADER                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Fals-Code&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ahmad%20Mathlaul%20Falah&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,25:feca57,50:48dbfb,75:ff9ff3,100:54a0ff&height=220&section=header&text=Ahmad%20Mathlaul%20Falah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=ffffff&strokeWidth=1&desc=⚡%20Backend%20Developer%20%7C%20Laravel%20Enthusiast%20%7C%20Informatika%20UNAIR&descAlignY=62&descSize=15&descColor=ffffff"/>
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=FF6B6B&center=true&vCenter=true&width=650&height=45&lines=🚀+Building+backends+that+actually+scale;🔥+Laravel+%7C+PHP+%7C+MySQL+%7C+REST+API;🌱+Learning+something+new+every+single+day;💡+Clean+code+is+not+optional%2C+it's+respect;🎯+Future+Backend+Engineer+%2F+CTO" alt="Typing SVG" />
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;Always+learning%2C+always+building+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-<a href="mailto:ahmadmathlaulfalah14@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://instagram.com/falahh.am">
-  <img src="https://img.shields.io/badge/@falahh.am-FF9FF3?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://github.com/Fals-Code">
-  <img src="https://img.shields.io/badge/Fals--Code-54A0FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Fals-Code&style=for-the-badge&color=FECA57&label=VISITORS&abbreviated=true"/>
-
-<br/><br/>
-
-<!-- LIVE QUICK STATS -->
-<img src="https://img.shields.io/github/followers/Fals-Code?style=flat-square&logo=github&label=Followers&color=48DBFB"/>
-<img src="https://img.shields.io/badge/Location-Gresik%2C%20Indonesia-FF9FF3?style=flat-square&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/University-UNAIR-FECA57?style=flat-square&logo=academia&logoColor=black"/>
-<img src="https://img.shields.io/badge/Focus-Backend%20Dev-FF6B6B?style=flat-square"/>
+<!-- Social Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/fals-code?label=Followers&style=social)](https://github.com/fals-code)
+[![Profile Views](https://komarev.com/ghpvc/?username=fals-code&label=Profile+Views&color=7c3aed&style=flat)](https://github.com/fals-code)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## 🧑‍💻 About Me
 
-### 👋 Halo, saya Falah!
+```js
+const falsCode = {
+  name        : "Ahmad Mathlaul Falah",
+  alias       : "Fals-Code",
+  role        : "Full-Stack Developer",
+  location    : "Indonesia 🇮🇩",
+  passions    : ["Clean Code", "Open Source", "UI/UX", "Problem Solving"],
+  currentFocus: "Building things that actually matter",
+  funFact     : "I debug with console.log and I'm not ashamed 😅"
+};
+```
 
-Mahasiswa **Teknik Informatika** di Universitas Airlangga, Gresik.
-
-Saya jatuh cinta sama backend bukan karena keren-kerenan — tapi karena ada kepuasan tersendiri waktu sistem yang saya bangun berjalan mulus tanpa error di production.
-
-**Yang lagi saya kejar sekarang:**
-- 🔧 Arsitektur Laravel yang maintainable jangka panjang
-- 🌐 RESTful API design yang bersih & terdokumentasi
-- 🗄️ Database optimization & query performance
-- 🧼 Clean code & SOLID principles dalam praktik nyata
-
-> *"Code yang bisa dibaca orang lain itu lebih berharga dari code yang cuma bisa dibaca compiler."*
+- 🔭 Lagi ngerjain proyek seru yang (semoga) bermanfaat
+- 🌱 Terus belajar hal baru setiap harinya
+- 💡 Suka bangun sesuatu dari nol — dari ide sampai jadi produk
+- 🤝 Terbuka untuk kolaborasi & diskusi teknologi
+- 📬 Reach me at: **[ahmadmathlaulfalah14@gmail.com]**
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**— Core —**
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blade-FF6B35?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**— Frontend —**
+### 🗄️ Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+### 🧰 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-**— Tools & Workflow —**
+</div>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+---
 
-**— Currently Learning —**
+## 📊 GitHub Stats
 
-<img src="https://img.shields.io/badge/REST%20API-00D2AA?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fals-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fals-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
 
 <br/>
 
-<!-- SKILL ICONS - more reliable than skillicons.dev -->
-<img src="https://img.shields.io/badge/─────────────────────────────────-0d1117?style=for-the-badge"/>
+<img src="https://streak-stats.demolab.com?user=fals-code&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" height="165"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  GITHUB STATS                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats (Live)
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<!-- Stats card - menggunakan token publik, reliable -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=FECA57&text_color=ffffff&border_radius=12&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-&nbsp;
-<!-- Top languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FECA57&text_color=ffffff&border_radius=12&langs_count=8&cache_seconds=1800"/>
-
-</div>
-
-<div align="center">
-
-<!-- Streak stats - demolab lebih stabil -->
-<img src="https://streak-stats.demolab.com/?user=Fals-Code&theme=radical&hide_border=true&border_radius=12&date_format=j%20M%5B%2C%20Y%5D&ring=FF6B6B&fire=FECA57&currStreakLabel=48DBFB&sideLabels=FF9FF3&background=0d1117&cache_seconds=1800"/>
-
-</div>
-
-<div align="center">
-
-<!-- Activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&bg_color=0d1117&color=FECA57&line=FF6B6B&point=48DBFB&area=true&area_color=2c1b1b&hide_border=true&radius=8&custom_title=📈%20Contribution%20Activity%20(Live)"/>
+<img src="https://github-profile-trophy.vercel.app/?username=fals-code&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 FEATURED PROJECTS                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fals-code&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Fals-Code/Proyek_RSHP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_RSHP&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff&icon_color=FECA57&border_radius=12&cache_seconds=1800"/>
-</a>
-&nbsp;
-<a href="https://github.com/Fals-Code/Proyek_RSHPV1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_RSHPV1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=48DBFB&text_color=ffffff&icon_color=FF9FF3&border_radius=12&cache_seconds=1800"/>
-</a>
+| Project | Deskripsi | Tech | Status |
+|--------|-----------|------|--------|
+| 🌐 **[Project Name 1](#)** | Deskripsi singkat proyek kamu di sini | React · Node.js | 🟢 Active |
+| 📱 **[Project Name 2](#)** | Deskripsi singkat proyek kamu di sini | Laravel · MySQL | 🟡 In Dev |
+| 🛠️ **[Project Name 3](#)** | Deskripsi singkat proyek kamu di sini | Python · FastAPI | 🔵 Stable |
+| 🎯 **[Project Name 4](#)** | Deskripsi singkat proyek kamu di sini | Next.js · Tailwind | 🟢 Active |
+
+</div>
+
+> ⚠️ *Ganti nama & link proyek di atas dengan proyek kamu yang sebenarnya!*
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    TROPHIES                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies (Live)
+## 🌍 Connect With Me
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Fals-Code&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4&row=2"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              CONTRIBUTION SNAKE                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-> ⚡ Untuk mengaktifkan snake animation, kamu perlu:
-> 1. Buat repo baru bernama **`Fals-Code`** (sama persis dengan username GitHub kamu)
-> 2. Tambahkan file `.github/workflows/snake.yml` dengan isi dari [platane/snk](https://github.com/platane/snk)
-> 3. Setelah Actions berjalan, snake otomatis muncul di bawah ini 👇
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fals-Code/Fals-Code/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fals-Code/Fals-Code/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Fals-Code/Fals-Code/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   CONNECT                             -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📬 Let's Connect
-
-<div align="center">
-
-<a href="mailto:ahmadmathlaulfalah14@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/falahh.am">
-  <img src="https://img.shields.io/badge/DM%20Instagram-FF9FF3?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Fals-Code">
-  <img src="https://img.shields.io/badge/Follow%20GitHub-54A0FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-*Terbuka untuk kolaborasi, diskusi teknis, atau sekadar ngobrol soal backend!*
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/falahh.am?igsh=MTQ1b2oyODBsZ25lYg%3D%3D&utm_source=qr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=Firefox&logoColor=white)](https://ahmad-mathlaul-falah.pages.dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ahmadmathlaulfalah14@gmail.com)
 
 </div>
 
@@ -217,6 +146,10 @@ Saya jatuh cinta sama backend bukan karena keren-kerenan — tapi karena ada kep
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:feca57,50:48dbfb,75:ff9ff3,100:54a0ff&height=120&section=footer&animation=fadeIn&text=Thanks%20for%20visiting!%20⭐&fontSize=22&fontColor=ffffff&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+**✨ Thanks for visiting my profile! Have a great day! ✨**
+
+*— Ahmad Mathlaul Falah · Fals-Code*
 
 </div>
