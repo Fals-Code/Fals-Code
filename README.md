@@ -68,9 +68,8 @@ class AhmadMathlaul extends Developer
 }
 ```
 
----
 
-## ◈ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -84,68 +83,48 @@ class AhmadMathlaul extends Developer
 
 </div>
 
----
 
-## ◈ Skill Levels
+# Tech Stack & Skills
 
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-![Laravel](https://img.shields.io/badge/Laravel-Expert-4DD0E1?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Advanced-4DD0E1?style=for-the-badge&logo=php&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-Advanced-4DD0E1?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-26C6DA?style=for-the-badge&logo=mysql&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-26C6DA?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-0288D1?style=for-the-badge&logo=javascript&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-Learning-0288D1?style=for-the-badge&logo=fastapi&logoColor=white)
+### Core Expertise
+* **Backend:** PHP & Laravel Ecosystem (Eloquent, Middleware, Auth).
+* **Database:** Relational Database Design using MySQL.
+* **Frontend:** Blade Templating, Responsive UI with CSS.
+* **Current Focus:** Deep diving into **RESTful API Architecture** and modern **JavaScript**.
 
-<br/>
-
-| Skill | Progress |
-|---|---|
-| `Laravel / PHP` | ![](https://geps.dev/progress/82?dangerColor=4DD0E1&warningColor=4DD0E1&successColor=4DD0E1) |
-| `Blade Templating` | ![](https://geps.dev/progress/78?dangerColor=4DD0E1&warningColor=4DD0E1&successColor=4DD0E1) |
-| `MySQL / Database` | ![](https://geps.dev/progress/65?dangerColor=26C6DA&warningColor=26C6DA&successColor=26C6DA) |
-| `CSS / Frontend` | ![](https://geps.dev/progress/70?dangerColor=26C6DA&warningColor=26C6DA&successColor=26C6DA) |
-| `JavaScript` | ![](https://geps.dev/progress/45?dangerColor=0288D1&warningColor=0288D1&successColor=0288D1) |
-| `REST API Design` | ![](https://geps.dev/progress/50?dangerColor=0288D1&warningColor=0288D1&successColor=0288D1) |
-
-</div>
-
----
-
-## ◈ Featured Projects
+## Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/Fals-Code/Proyek_RSHP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_RSHP&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&icon_color=4DD0E1&border_radius=10"/>
-</a>
-<a href="https://github.com/Fals-Code/Proyek_RSHPV1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_RSHPV1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&icon_color=4DD0E1&border_radius=10"/>
-</a>
-
+  <a href="https://github.com/Fals-Code/Proyek_RSHP">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_RSHP&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&icon_color=4DD0E1&border_radius=10" />
+  </a>
+  <a href="https://github.com/Fals-Code/Proyek_RSHPV1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fals-Code&repo=Proyek_RSHPV1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&icon_color=4DD0E1&border_radius=10" />
+  </a>
 </div>
 
----
+## GitHub Insights
 
-## ◈ GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&icon_color=4DD0E1&text_color=e0f2f1&border_radius=10&count_private=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&border_radius=10" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=Fals-Code&theme=tokyonight&hide_border=true&background=0d1117&ring=4DD0E1&fire=4DD0E1&currStreakLabel=4DD0E1&border_radius=10" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&icon_color=4DD0E1&text_color=e0f2f1&border_radius=10&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&text_color=e0f2f1&border_radius=10"/>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&bg_color=0d1117&color=4DD0E1&line=203a43&point=4DD0E1&area=true&hide_border=true&border_radius=10" />
+</p>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Fals-Code&theme=tokyonight&hide_border=true&background=0d1117&ring=4DD0E1&fire=4DD0E1&currStreakLabel=4DD0E1&border_radius=10"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&bg_color=0d1117&color=4DD0E1&line=203a43&point=4DD0E1&area=true&hide_border=true&border_radius=10"/>
-
-</div>
-
----
 
 <div align="center">
 
