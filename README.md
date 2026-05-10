@@ -1,25 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f0c29,70:1a1a3e,100:0d1117&height=220&section=header&text=Ahmad%20Mathlaul%20Falah&fontSize=42&fontColor=c9d1d9&fontAlignY=36&desc=Backend%20Developer%20%7C%20Laravel%20%26%20PHP%20Enthusiast&descSize=17&descAlignY=56&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:0f0c29,70:1a1a3e,100:0d1117&amp;height=220&amp;section=header&amp;text=Ahmad%20Mathlaul%20Falah&amp;fontSize=42&amp;fontColor=c9d1d9&amp;fontAlignY=36&amp;desc=Backend%20Developer%20%7C%20Laravel%20%26%20PHP%20Enthusiast&amp;descSize=17&amp;descAlignY=56&amp;animation=fadeIn" />
 
 <a href="https://github.com/Fals-Code">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Falah+%F0%9F%91%8B;Backend+Developer+%7C+Laravel+%26+PHP+Enthusiast;D4+Teknik+Informatika+%40+Universitas+Airlangga;Building+clean%2C+efficient+backend+systems+%F0%9F%9A%80;Open+for+Collaboration!+Let's+build+something." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;pause=1200&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hello+World!+I'm+Falah+%F0%9F%91%8B;Backend+Developer+%7C+Laravel+%26+PHP+Enthusiast;D4+Teknik+Informatika+%40+Universitas+Airlangga;Building+clean%2C+efficient+backend+systems+%F0%9F%9A%80;Open+for+Collaboration!+Let's+build+something." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Fals-Code&style=flat-square&color=7c3aed&label=Profile+Views" />
-&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Fals-Code&amp;style=flat-square&amp;color=7c3aed&amp;label=Profile+Views" />
+&#160;
 <a href="https://github.com/Fals-Code?tab=followers">
-  <img src="https://img.shields.io/github/followers/Fals-Code?style=flat-square&color=7c3aed&label=Followers" />
+  <img src="https://img.shields.io/github/followers/Fals-Code?style=flat-square&amp;color=7c3aed&amp;label=Followers" />
 </a>
-&nbsp;
+&#160;
 <a href="https://github.com/Fals-Code?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-8-7c3aed?style=flat-square" />
 </a>
-&nbsp;
+&#160;
 <a href="https://falahporto.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-falahporto.vercel.app-7c3aed?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-falahporto.vercel.app-7c3aed?style=flat-square&amp;logo=vercel&amp;logoColor=white" />
 </a>
 
 </div>
