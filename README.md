@@ -1,20 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=9333EA&amp;height=250&amp;section=header&amp;text=Ahmad%20Mathlaul%20Falah&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Backend%20Architect%20%7C%20Laravel%20%26%20System%20Design%20Enthusiast&amp;descSize=22&amp;descAlignY=60&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=9333EA&amp;height=250&amp;section=header&amp;text=Ahmad%20Mathlaul%20Falah&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Backend%20Architect%20%7C%20Laravel%20and%20System%20Design%20Enthusiast&amp;descSize=22&amp;descAlignY=60&amp;animation=fadeIn" />
 
 <a href="https://github.com/Fals-Code">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;pause=1000&amp;color=9333EA&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Crafting+Scalable+Backend+Solutions;Laravel+%26+PHP+Expertise;Database+Design+%26+Optimization;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;pause=1000&amp;color=9333EA&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Crafting+Scalable+Backend+Solutions;Laravel+and+PHP+Expertise;Database+Design+and+Optimization;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fals-Code&style=flat-square&color=9333EA&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Fals-Code?style=flat-square&color=9333EA&label=FOLLOWERS" />
-  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Fals-Code&amp;style=flat-square&amp;color=9333EA&amp;label=PROFILE+VIEWS" />
+  &#160;
+  <img src="https://img.shields.io/github/followers/Fals-Code?style=flat-square&amp;color=9333EA&amp;label=FOLLOWERS" />
+  &#160;
   <img src="https://img.shields.io/badge/REPOSITORIES-8-9333EA?style=flat-square" />
-  &nbsp;
+  &#160;
   <a href="https://falahporto.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-9333EA?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-9333EA?style=flat-square&amp;logo=vercel&amp;logoColor=white" />
   </a>
 </p>
 
@@ -42,15 +42,31 @@
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🛠️ Tech Stack and Expertise
 
 <div align="center">
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Frameworks** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **Tools & Cloud** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+**Languages**
+<br/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
+
+**Frameworks**
+<br/>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white)
+
+**Tools and Cloud**
+<br/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&amp;logo=composer&amp;logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)
 
 </div>
 
@@ -72,8 +88,8 @@
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **[RSHP Hospital System](https://github.com/Fals-Code/Proyek_RSHPV1)** | Integrated HIS with real-time scheduling. | Laravel • MySQL • Blade | ✅ Done |
-| **[Warehouse Inventory](https://github.com/Fals-Code/Proyek_PBDV1)** | Automated stock tracking & reporting. | Laravel • Eloquent • MySQL | ✅ Done |
-| **[Collection Manager](https://github.com/Fals-Code/Framework_koleksi_buku)** | Dynamic CRUD & Search engine. | Laravel 11 • Blade | ✅ Done |
+| **[Warehouse Inventory](https://github.com/Fals-Code/Proyek_PBDV1)** | Automated stock tracking and reporting. | Laravel • Eloquent • MySQL | ✅ Done |
+| **[Collection Manager](https://github.com/Fals-Code/Framework_koleksi_buku)** | Dynamic CRUD and Search engine. | Laravel 11 • Blade | ✅ Done |
 
 </div>
 
@@ -93,7 +109,7 @@
 <br/>
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&amp;layout=donut&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=9333EA&amp;text_color=c9d1d9&amp;langs_count=6" />
-&nbsp;
+&#160;
 <img width="45%" src="https://github-profile-trophy.vercel.app/?username=Fals-Code&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=3&amp;margin-w=10" />
 
 </div>
@@ -103,11 +119,11 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://falahporto.vercel.app"><img src="https://img.shields.io/badge/Portfolio-falahporto.vercel.app-9333EA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://instagram.com/falahh.am"><img src="https://img.shields.io/badge/Instagram-@falahh.am-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:ahmadmathlaulfalah14@gmail.com"><img src="https://img.shields.io/badge/Gmail-ahmadmathlaulfalah14-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://falahporto.vercel.app"><img src="https://img.shields.io/badge/Portfolio-falahporto.vercel.app-9333EA?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
+  &#160;
+  <a href="https://instagram.com/falahh.am"><img src="https://img.shields.io/badge/Instagram-@falahh.am-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" /></a>
+  &#160;
+  <a href="mailto:ahmadmathlaulfalah14@gmail.com"><img src="https://img.shields.io/badge/Gmail-ahmadmathlaulfalah14-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
 
 ---
