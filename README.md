@@ -9,15 +9,15 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Fals-Code&amp;style=flat-square&amp;color=7c3aed&amp;label=Profile+Views" />
-&#160;
+&nbsp;
 <a href="https://github.com/Fals-Code?tab=followers">
   <img src="https://img.shields.io/github/followers/Fals-Code?style=flat-square&amp;color=7c3aed&amp;label=Followers" />
 </a>
-&#160;
+&nbsp;
 <a href="https://github.com/Fals-Code?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-8-7c3aed?style=flat-square" />
 </a>
-&#160;
+&nbsp;
 <a href="https://falahporto.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-falahporto.vercel.app-7c3aed?style=flat-square&amp;logo=vercel&amp;logoColor=white" />
 </a>
@@ -160,12 +160,12 @@ class Falah extends BackendDeveloper
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fals-Code&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=7c3aed&sideLabels=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7c3aed&amp;icon_color=a78bfa&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fals-Code&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=7c3aed&amp;fire=a78bfa&amp;currStreakLabel=7c3aed&amp;sideLabels=c9d1d9" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=6" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&amp;layout=donut&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7c3aed&amp;text_color=c9d1d9&amp;langs_count=6" />
 
 </div>
 
@@ -174,7 +174,7 @@ class Falah extends BackendDeveloper
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=7c3aed&amp;point=ffffff&amp;area=true&amp;area_color=7c3aed" width="100%" />
 </div>
 
 ---
@@ -182,7 +182,7 @@ class Falah extends BackendDeveloper
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fals-Code&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Fals-Code&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=6&amp;margin-w=10" width="100%" />
 </div>
 
 ---
@@ -202,7 +202,7 @@ class Falah extends BackendDeveloper
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" />
 
 <br/><br/>
 
@@ -210,6 +210,6 @@ class Falah extends BackendDeveloper
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:0f0c29&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1a3e,100:0f0c29&amp;height=130&amp;section=footer" />
 
 </div>
