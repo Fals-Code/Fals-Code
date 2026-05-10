@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,3,5,25,8&height=250&section=header&text=Ahmad%20Mathlaul%20Falah&fontSize=50&fontColor=fff&fontAlignY=35&desc=Backend%20Architect%20|%20Laravel%20%26%20System%20Design%20Enthusiast&descSize=22&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=9333EA&amp;height=250&amp;section=header&amp;text=Ahmad%20Mathlaul%20Falah&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Backend%20Architect%20%7C%20Laravel%20%26%20System%20Design%20Enthusiast&amp;descSize=22&amp;descAlignY=60&amp;animation=fadeIn" />
 
 <a href="https://github.com/Fals-Code">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=800&lines=Crafting+Scalable+Backend+Solutions;Laravel+%26+PHP+Expertise;Database+Design+%26+Optimization;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;pause=1000&amp;color=9333EA&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Crafting+Scalable+Backend+Solutions;Laravel+%26+PHP+Expertise;Database+Design+%26+Optimization;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -83,18 +83,18 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9333EA&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fals-Code&theme=tokyonight&hide_border=true&background=0d1117&ring=9333EA&fire=a78bfa&currStreakLabel=9333EA&sideLabels=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=9333EA&amp;icon_color=a78bfa&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fals-Code&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=9333EA&amp;fire=a78bfa&amp;currStreakLabel=9333EA&amp;sideLabels=c9d1d9" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=9333EA&point=ffffff&area=true&area_color=9333EA" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=9333EA&amp;point=ffffff&amp;area=true&amp;area_color=9333EA" />
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9333EA&text_color=c9d1d9&langs_count=6" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&amp;layout=donut&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=9333EA&amp;text_color=c9d1d9&amp;langs_count=6" />
 &nbsp;
-<img width="45%" src="https://github-profile-trophy.vercel.app/?username=Fals-Code&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=10" />
+<img width="45%" src="https://github-profile-trophy.vercel.app/?username=Fals-Code&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=3&amp;margin-w=10" />
 
 </div>
 
@@ -114,10 +114,10 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,25,5,3,2,10&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=9333EA&amp;height=130&amp;section=footer" />
 
 </div>
