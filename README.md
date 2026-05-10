@@ -98,27 +98,27 @@ class Falah extends BackendDeveloper
 
 ### 💻 Languages
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks &amp; Libraries
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Eloquent ORM](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white)
+![Eloquent ORM](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white)
 
-### 🗄️ Database & Tools
+### 🗄️ Database &amp; Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&amp;logo=composer&amp;logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white)
 
 </div>
 
@@ -192,9 +192,9 @@ class Falah extends BackendDeveloper
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-falahporto.vercel.app-7c3aed?style=for-the-badge)](https://falahporto.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Fals--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fals-Code)
-[![Instagram](https://img.shields.io/badge/Instagram-%40falahh.am-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/falahh.am)
-[![Email](https://img.shields.io/badge/Gmail-ahmadmathlaulfalah14-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmathlaulfalah14@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Fals--Code-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Fals-Code)
+[![Instagram](https://img.shields.io/badge/Instagram-%40falahh.am-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://instagram.com/falahh.am)
+[![Email](https://img.shields.io/badge/Gmail-ahmadmathlaulfalah14-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:ahmadmathlaulfalah14@gmail.com)
 
 </div>
 
