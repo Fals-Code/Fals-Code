@@ -1,139 +1,323 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=9333EA&amp;height=250&amp;section=header&amp;text=Ahmad%20Mathlaul%20Falah&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Backend%20Architect%20%7C%20Laravel%20and%20System%20Design%20Enthusiast&amp;descSize=22&amp;descAlignY=60&amp;animation=fadeIn" />
+# Ahmad Mathlaul Falah
 
-<a href="https://github.com/Fals-Code">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;pause=1000&amp;color=9333EA&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Crafting+Scalable+Backend+Solutions;Laravel+and+PHP+Expertise;Database+Design+and+Optimization;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</a>
+### Software Developer who learns by building systems that must actually work.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fals-Code&amp;style=flat-square&amp;color=9333EA&amp;label=PROFILE+VIEWS" />
-  &#160;
-  <img src="https://img.shields.io/github/followers/Fals-Code?style=flat-square&amp;color=9333EA&amp;label=FOLLOWERS" />
-  &#160;
-  <img src="https://img.shields.io/badge/REPOSITORIES-8-9333EA?style=flat-square" />
-  &#160;
+<p>
   <a href="https://falahporto.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-9333EA?style=flat-square&amp;logo=vercel&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:ahmadmathlaulfalah14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/falahh.am">
+    <img src="https://img.shields.io/badge/Instagram-7C3AED?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-</div>
-
----
-
-### ⚡ Quick Overview
-
-> **"Turning coffee into clean code and complex business logic into scalable systems."**
-
-<div align="center">
-
-| 🚀 **Status** | 🎓 **Education** | 📍 **Location** | 📬 **Contact** |
-| :--- | :--- | :--- | :--- |
-| Open for Collaboration | D4 Teknik Informatika @ UNAIR | Gresik, Indonesia | [Email Me](mailto:ahmadmathlaulfalah14@gmail.com) |
-
-</div>
-
-- 👋 **Hi! I'm Falah**, a dedicated **Backend Developer** with a passion for building robust and efficient systems.
-- 🎓 Currently pursuing **D4 Teknik Informatika** at **Universitas Airlangga**.
-- 🛠️ Deeply invested in the **Laravel** ecosystem, database optimization, and clean architecture.
-- 🏗️ Experienced in developing integrated information systems for academic and enterprise environments.
-- 🔭 Working on: Advanced PHP patterns and system scalability.
-
----
-
-### 🛠️ Tech Stack and Expertise
-
-<div align="center">
-
-**Languages**
-<br/>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
-
-**Frameworks**
-<br/>
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white)
-
-**Tools and Cloud**
-<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&amp;logo=composer&amp;logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)
+<sub>Web Engineering · Mobile Development · System Design · Data Integrity</sub>
 
 </div>
 
 ---
 
-### 🏆 Core Expertise
+## `01. Introduction`
 
-- 🌐 **Web Development**: Building high-performance web applications with Laravel.
-- 🗄️ **Database Engineering**: Advanced schema design, normalization, and query optimization.
-- ⚙️ **System Architecture**: Designing logical, scalable backend workflows.
-- 🔌 **API Integration**: Crafting and consuming complex RESTful services.
+```text
+I do not learn technology just to collect framework names.
+
+I learn by finding a real problem,
+breaking it into understandable rules,
+building the system,
+testing what can go wrong,
+and improving everything that survives.
+```
+
+I am an Informatics student at **Universitas Airlangga** who enjoys turning complicated processes into software that is understandable, traceable, and reliable.
+
+My work currently spans web applications, mobile development, database design, system architecture, security policies, and business workflow automation.
+
+I am especially interested in systems where correctness matters: inventory movements, authorization rules, transactional workflows, audit trails, and application states that should not magically change without explanation.
 
 ---
 
-### 📂 Featured Projects
+## `02. Current Build`
+
+<table>
+<tr>
+<td width="130" align="center">
+
+### NOW
+
+</td>
+<td>
+
+Building a **marketplace stock reconciliation system** for handling inventory movements, FEFO batch allocation, reservations, cancellations, returns, claims, and stocktake workflows.
+
+The main principle is simple:
+
+> **No stock quantity should change without leaving an explainable trace.**
+
+</td>
+</tr>
+</table>
+
+This project is teaching me how to think beyond individual pages and features. It requires domain modelling, append-only ledgers, transaction safety, database policies, state transitions, testing, and careful documentation.
+
+---
+
+## `03. How I Learn`
+
+| Stage          | What I Do                                                                          |
+| -------------- | ---------------------------------------------------------------------------------- |
+| **Understand** | Study the problem, users, rules, constraints, and failure scenarios.               |
+| **Model**      | Translate the domain into entities, states, events, and data relationships.        |
+| **Build**      | Implement the smallest complete workflow instead of creating disconnected screens. |
+| **Verify**     | Test permissions, edge cases, state transitions, and data consistency.             |
+| **Reflect**    | Document decisions, identify weak assumptions, and improve the architecture.       |
+| **Repeat**     | Move to the next problem with fewer illusions and slightly better code.            |
+
+I am not trying to appear as if I already know everything. That would be suspicious, especially on the internet.
+
+I am trying to become the kind of engineer who can learn unfamiliar systems, ask better questions, and make increasingly responsible technical decisions.
+
+---
+
+## `04. Selected Work`
+
+### Stock Reconciliation System
+
+**Repository:** [Fals-Code/stok-reconciliation-system](https://github.com/Fals-Code/stok-reconciliation-system)
+
+An inventory reconciliation platform designed for marketplace operations involving Shopee and TikTok Shop.
+
+```text
+Marketplace Events
+        ↓
+Order State Machine
+        ↓
+Reservation & FEFO Allocation
+        ↓
+Append-Only Stock Ledger
+        ↓
+Balance Projection & Reconciliation
+```
+
+**Engineering focus**
+
+* Append-only inventory ledger
+* FEFO batch allocation
+* Partial cancellation and return handling
+* Stocktake review and adjustment lifecycle
+* Auditability and transaction consistency
+* Next.js, TypeScript, Supabase, and PostgreSQL
+
+---
+
+### TICKET-Q
+
+**Repository:** [Fals-Code/flutter-ticketing-helpdesk](https://github.com/Fals-Code/flutter-ticketing-helpdesk)
+
+A mobile helpdesk application for creating, monitoring, and resolving service tickets across User, Helpdesk, and Admin roles.
+
+**Engineering focus**
+
+* Flutter application architecture
+* BLoC state management
+* GoRouter navigation
+* Supabase RLS and RPC authorization
+* Firebase Cloud Messaging
+* Reproducible policy and application testing
+
+---
+
+### BurnoutXpert
+
+**Repository:** [Fals-Code/expert-system-burnout-detection](https://github.com/Fals-Code/expert-system-burnout-detection)
+
+A web-based expert system for early burnout detection using Backward Chaining, Certainty Factor, and directional evidence.
+
+**Engineering focus**
+
+* Explainable inference results
+* Rule and symptom management
+* Transactional diagnosis persistence
+* Authorization and anti-IDOR protection
+* Laravel, PHP, MySQL, and Tailwind CSS
+
+---
+
+### NEXGEAR
+
+**Repository:** [Fals-Code/nexgear-store-ui](https://github.com/Fals-Code/nexgear-store-ui)
+
+A responsive gaming e-commerce prototype with a complete simulated customer and administration journey.
+
+**Engineering focus**
+
+* Twenty-four responsive pages
+* Product discovery and filtering
+* Cart, checkout, payment, and order tracking
+* Reusable frontend components
+* HTML, CSS, and Vanilla JavaScript
+
+---
+
+## `05. Technology Map`
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+### Languages
+
+* TypeScript
+* JavaScript
+* Dart
+* PHP
+* SQL
+* HTML
+* CSS
+
+</td>
+<td valign="top" width="25%">
+
+### Web
+
+* Next.js
+* React
+* Laravel
+* Tailwind CSS
+* REST API
+
+</td>
+<td valign="top" width="25%">
+
+### Mobile
+
+* Flutter
+* BLoC
+* GoRouter
+* Firebase
+
+</td>
+<td valign="top" width="25%">
+
+### Data & Tools
+
+* PostgreSQL
+* MySQL
+* Supabase
+* Git
+* GitHub
+* Postman
+* Vercel
+
+</td>
+</tr>
+</table>
+
+---
+
+## `06. Learning Queue`
+
+```yaml
+currently_strengthening:
+  - domain-driven system modelling
+  - transactional database workflows
+  - automated integration testing
+  - application security
+  - scalable frontend architecture
+
+exploring_next:
+  - event-driven architecture
+  - observability and production monitoring
+  - distributed system fundamentals
+  - continuous integration and delivery
+  - responsible AI integration
+
+long_term_goal:
+  - become an engineer capable of designing,
+    building, securing, and evolving
+    reliable software systems
+```
+
+---
+
+## `07. Engineering Principles`
+
+```diff
++ Understand the domain before choosing the technology.
++ Treat data integrity as a product feature.
++ Make important state changes traceable.
++ Prefer complete workflows over impressive mockups.
++ Document decisions that future maintainers may question.
++ Test failure paths, not only successful demonstrations.
+
+- Hidden business rules
+- Irreversible manual edits
+- Buttons that lead nowhere
+- Security added after everything is already broken
+- Complexity created merely to look sophisticated
+```
+
+---
+
+## `08. GitHub Activity`
 
 <div align="center">
 
-| Project | Description | Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[RSHP Hospital System](https://github.com/Fals-Code/Proyek_RSHPV1)** | Integrated HIS with real-time scheduling. | Laravel • MySQL • Blade | ✅ Done |
-| **[Warehouse Inventory](https://github.com/Fals-Code/Proyek_PBDV1)** | Automated stock tracking and reporting. | Laravel • Eloquent • MySQL | ✅ Done |
-| **[Collection Manager](https://github.com/Fals-Code/Framework_koleksi_buku)** | Dynamic CRUD and Search engine. | Laravel 11 • Blade | ✅ Done |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=8B5CF6&text_color=8B949E&rank_icon=github" alt="Ahmad's GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=8B949E&langs_count=8&hide=hack" alt="Ahmad's most used languages" />
 
 </div>
 
----
+<details>
+<summary><strong>View contribution activity</strong></summary>
 
-### 📊 GitHub Analytics
+<br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=9333EA&amp;icon_color=a78bfa&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fals-Code&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=9333EA&amp;fire=a78bfa&amp;currStreakLabel=9333EA&amp;sideLabels=c9d1d9" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=9333EA&amp;point=ffffff&amp;area=true&amp;area_color=9333EA" />
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&amp;layout=donut&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=9333EA&amp;text_color=c9d1d9&amp;langs_count=6" />
-&#160;
-<img width="45%" src="https://github-profile-trophy.vercel.app/?username=Fals-Code&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=3&amp;margin-w=10" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&bg_color=transparent&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
+</details>
+
 ---
 
-### 🤝 Connect With Me
+## `09. Beyond the Repository`
 
-<p align="center">
-  <a href="https://falahporto.vercel.app"><img src="https://img.shields.io/badge/Portfolio-falahporto.vercel.app-9333EA?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
-  &#160;
-  <a href="https://instagram.com/falahh.am"><img src="https://img.shields.io/badge/Instagram-@falahh.am-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" /></a>
-  &#160;
-  <a href="mailto:ahmadmathlaulfalah14@gmail.com"><img src="https://img.shields.io/badge/Gmail-ahmadmathlaulfalah14-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-</p>
+I am interested in more than producing code that passes a demonstration.
+
+I want to understand:
+
+* why a system is needed;
+* how users actually interact with it;
+* where data can become inconsistent;
+* which decisions must remain auditable;
+* what happens when the expected flow fails;
+* and how the system can continue evolving after its first release.
+
+That is the part of software engineering I find most exciting: every completed project reveals another layer of things I still need to learn.
 
 ---
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" />
+### Still learning. Still building. More deliberate with every iteration.
+
+<br/>
+
+<a href="https://falahporto.vercel.app">
+  <img src="https://img.shields.io/badge/Explore_My_Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" />
+</a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=9333EA&amp;height=130&amp;section=footer" />
+<sub>Built through experiments, revisions, failed assumptions, and version control.</sub>
 
 </div>
