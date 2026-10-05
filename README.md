@@ -2,7 +2,9 @@
 
 # Ahmad Mathlaul Falah
 
-### Software Developer who learns by building systems that must actually work.
+### Software Engineer in Progress · Backend · Web · Mobile · Applied AI
+
+I build software by turning messy workflows into systems that are easier to understand, trace, test, and maintain.
 
 <p>
   <a href="https://falahporto.vercel.app">
@@ -16,255 +18,114 @@
   </a>
 </p>
 
-<sub>Web Engineering · Mobile Development · System Design · Data Integrity</sub>
+<sub>Informatics student at Universitas Airlangga · Surabaya, Indonesia</sub>
 
 </div>
 
 ---
 
-## `01. Introduction`
+## About Me
+
+I enjoy working on systems where the difficult part is not only the interface, but the rules behind it.
+
+- Building across **backend, web, mobile, databases, and automation**.
+- Interested in **system design, data integrity, authorization, transactional workflows, and application security**.
+- Comfortable learning new stacks when the problem requires them.
+- I prefer complete, testable workflows over disconnected demo features.
 
 ```text
-I do not learn technology just to collect framework names.
-
-I learn by finding a real problem,
-breaking it into understandable rules,
-building the system,
-testing what can go wrong,
-and improving everything that survives.
+Understand the domain → model the rules → build the workflow → test failure paths → improve the system
 ```
 
-I am an Informatics student at **Universitas Airlangga** who enjoys turning complicated processes into software that is understandable, traceable, and reliable.
+---
 
-My work currently spans web applications, mobile development, database design, system architecture, security policies, and business workflow automation.
+## Featured Projects
 
-I am especially interested in systems where correctness matters: inventory movements, authorization rules, transactional workflows, audit trails, and application states that should not magically change without explanation.
+| Project | What it solves | Engineering focus |
+| --- | --- | --- |
+| **[Stock Reconciliation System](https://github.com/Fals-Code/stok-reconciliation-system)** | Inventory reconciliation for marketplace operations | Append-only stock ledger, FEFO allocation, reservations, returns, stocktake, reconciliation, auditability |
+| **[SIAKAD Mini API](https://github.com/Fals-Code/latihan-fiber/tree/main/uts-pbl-siakad-mini)** | Academic REST API for students, courses, and KRS | Go, Fiber, PostgreSQL, authentication, authorization, repository/service architecture |
+| **[TICKET-Q](https://github.com/Fals-Code/flutter-ticketing-helpdesk)** | Multi-role mobile helpdesk and ticketing system | Flutter, BLoC, GoRouter, Supabase RLS/RPC, Firebase Cloud Messaging |
+| **[BurnoutXpert](https://github.com/Fals-Code/expert-system-burnout-detection)** | Explainable early burnout detection | Backward Chaining, Certainty Factor, transactional diagnosis, authorization, Laravel |
+
+### Other builds
+
+- **[NEXGEAR](https://github.com/Fals-Code/nexgear-store-ui)** — responsive gaming e-commerce prototype with customer and admin journeys.
+- **[WA Finance Tracker](https://github.com/Fals-Code/wa-finance-tracker-ai)** — finance automation experiments combining application logic, data processing, and AI-assisted workflows.
+- **[Machine Learning Coursework](https://github.com/Fals-Code/uts-prak-ml-c8-kelompok4)** — preprocessing, feature selection, classification, and model evaluation experiments.
 
 ---
 
-## `02. Current Build`
-
-<table>
-<tr>
-<td width="130" align="center">
-
-### NOW
-
-</td>
-<td>
-
-Building a **marketplace stock reconciliation system** for handling inventory movements, FEFO batch allocation, reservations, cancellations, returns, claims, and stocktake workflows.
-
-The main principle is simple:
-
-> **No stock quantity should change without leaving an explainable trace.**
-
-</td>
-</tr>
-</table>
-
-This project is teaching me how to think beyond individual pages and features. It requires domain modelling, append-only ledgers, transaction safety, database policies, state transitions, testing, and careful documentation.
-
----
-
-## `03. How I Learn`
-
-| Stage          | What I Do                                                                          |
-| -------------- | ---------------------------------------------------------------------------------- |
-| **Understand** | Study the problem, users, rules, constraints, and failure scenarios.               |
-| **Model**      | Translate the domain into entities, states, events, and data relationships.        |
-| **Build**      | Implement the smallest complete workflow instead of creating disconnected screens. |
-| **Verify**     | Test permissions, edge cases, state transitions, and data consistency.             |
-| **Reflect**    | Document decisions, identify weak assumptions, and improve the architecture.       |
-| **Repeat**     | Move to the next problem with fewer illusions and slightly better code.            |
-
-I am not trying to appear as if I already know everything. That would be suspicious, especially on the internet.
-
-I am trying to become the kind of engineer who can learn unfamiliar systems, ask better questions, and make increasingly responsible technical decisions.
-
----
-
-## `04. Selected Work`
-
-### Stock Reconciliation System
-
-**Repository:** [Fals-Code/stok-reconciliation-system](https://github.com/Fals-Code/stok-reconciliation-system)
-
-An inventory reconciliation platform designed for marketplace operations involving Shopee and TikTok Shop.
-
-```text
-Marketplace Events
-        ↓
-Order State Machine
-        ↓
-Reservation & FEFO Allocation
-        ↓
-Append-Only Stock Ledger
-        ↓
-Balance Projection & Reconciliation
-```
-
-**Engineering focus**
-
-* Append-only inventory ledger
-* FEFO batch allocation
-* Partial cancellation and return handling
-* Stocktake review and adjustment lifecycle
-* Auditability and transaction consistency
-* Next.js, TypeScript, Supabase, and PostgreSQL
-
----
-
-### TICKET-Q
-
-**Repository:** [Fals-Code/flutter-ticketing-helpdesk](https://github.com/Fals-Code/flutter-ticketing-helpdesk)
-
-A mobile helpdesk application for creating, monitoring, and resolving service tickets across User, Helpdesk, and Admin roles.
-
-**Engineering focus**
-
-* Flutter application architecture
-* BLoC state management
-* GoRouter navigation
-* Supabase RLS and RPC authorization
-* Firebase Cloud Messaging
-* Reproducible policy and application testing
-
----
-
-### BurnoutXpert
-
-**Repository:** [Fals-Code/expert-system-burnout-detection](https://github.com/Fals-Code/expert-system-burnout-detection)
-
-A web-based expert system for early burnout detection using Backward Chaining, Certainty Factor, and directional evidence.
-
-**Engineering focus**
-
-* Explainable inference results
-* Rule and symptom management
-* Transactional diagnosis persistence
-* Authorization and anti-IDOR protection
-* Laravel, PHP, MySQL, and Tailwind CSS
-
----
-
-### NEXGEAR
-
-**Repository:** [Fals-Code/nexgear-store-ui](https://github.com/Fals-Code/nexgear-store-ui)
-
-A responsive gaming e-commerce prototype with a complete simulated customer and administration journey.
-
-**Engineering focus**
-
-* Twenty-four responsive pages
-* Product discovery and filtering
-* Cart, checkout, payment, and order tracking
-* Reusable frontend components
-* HTML, CSS, and Vanilla JavaScript
-
----
-
-## `05. Technology Map`
-
-<table>
-<tr>
-<td valign="top" width="25%">
+## Tech Stack
 
 ### Languages
 
-* TypeScript
-* JavaScript
-* Dart
-* PHP
-* SQL
-* HTML
-* CSS
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
-</td>
-<td valign="top" width="25%">
+### Frameworks & Platforms
 
-### Web
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Fiber-00ACD7?style=flat-square&logo=go&logoColor=white" alt="Fiber" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-* Next.js
-* React
-* Laravel
-* Tailwind CSS
-* REST API
+### Data, Backend & Tooling
 
-</td>
-<td valign="top" width="25%">
-
-### Mobile
-
-* Flutter
-* BLoC
-* GoRouter
-* Firebase
-
-</td>
-<td valign="top" width="25%">
-
-### Data & Tools
-
-* PostgreSQL
-* MySQL
-* Supabase
-* Git
-* GitHub
-* Postman
-* Vercel
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
-## `06. Learning Queue`
-
-```yaml
-currently_strengthening:
-  - domain-driven system modelling
-  - transactional database workflows
-  - automated integration testing
-  - application security
-  - scalable frontend architecture
-
-exploring_next:
-  - event-driven architecture
-  - observability and production monitoring
-  - distributed system fundamentals
-  - continuous integration and delivery
-  - responsible AI integration
-
-long_term_goal:
-  - become an engineer capable of designing,
-    building, securing, and evolving
-    reliable software systems
-```
-
----
-
-## `07. Engineering Principles`
+## Engineering Mindset
 
 ```diff
 + Understand the domain before choosing the technology.
-+ Treat data integrity as a product feature.
-+ Make important state changes traceable.
-+ Prefer complete workflows over impressive mockups.
-+ Document decisions that future maintainers may question.
-+ Test failure paths, not only successful demonstrations.
++ Treat data integrity and authorization as product features.
++ Make important state changes explainable and traceable.
++ Test edge cases and failure paths, not only the happy path.
++ Keep architecture proportional to the problem.
 
 - Hidden business rules
-- Irreversible manual edits
-- Buttons that lead nowhere
-- Security added after everything is already broken
-- Complexity created merely to look sophisticated
+- Magic state changes
+- Security as an afterthought
+- Complexity added only to look sophisticated
 ```
 
 ---
 
-## `08. GitHub Activity`
+## Currently Strengthening
+
+- Backend architecture with **Go** and PostgreSQL.
+- Transaction-safe workflows and database design.
+- Automated integration and end-to-end testing.
+- Application security and authorization boundaries.
+- Practical AI/ML integration for real workflows.
+- Distributed systems, observability, and production reliability fundamentals.
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
@@ -274,43 +135,11 @@ long_term_goal:
 
 </div>
 
-<details>
-<summary><strong>View contribution activity</strong></summary>
-
-<br/>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&bg_color=transparent&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
-
-</details>
-
----
-
-## `09. Beyond the Repository`
-
-I am interested in more than producing code that passes a demonstration.
-
-I want to understand:
-
-* why a system is needed;
-* how users actually interact with it;
-* where data can become inconsistent;
-* which decisions must remain auditable;
-* what happens when the expected flow fails;
-* and how the system can continue evolving after its first release.
-
-That is the part of software engineering I find most exciting: every completed project reveals another layer of things I still need to learn.
-
 ---
 
 <div align="center">
 
-### Still learning. Still building. More deliberate with every iteration.
-
-<br/>
+### Build things. Break assumptions. Learn from both.
 
 <a href="https://falahporto.vercel.app">
   <img src="https://img.shields.io/badge/Explore_My_Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" />
@@ -318,6 +147,6 @@ That is the part of software engineering I find most exciting: every completed p
 
 <br/><br/>
 
-<sub>Built through experiments, revisions, failed assumptions, and version control.</sub>
+<sub>Still learning, but increasingly deliberate about what I build and why.</sub>
 
 </div>
