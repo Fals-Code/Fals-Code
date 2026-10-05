@@ -2,9 +2,9 @@
 
 # Ahmad Mathlaul Falah
 
-**Software Engineer in Progress**
+**Informatics Student at Universitas Airlangga**
 
-Informatics Student at **Universitas Airlangga** · Surabaya, Indonesia
+Interested in backend development, web applications, mobile development, and applied AI.
 
 <p>
   <a href="https://falahporto.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -16,7 +16,7 @@ Informatics Student at **Universitas Airlangga** · Surabaya, Indonesia
 
 ## About
 
-I build **web, backend, and mobile applications** while exploring AI and software architecture. I enjoy working on systems where data integrity, business rules, and maintainability matter.
+I learn software development by building projects across backend, web, mobile, databases, and AI/ML. Right now, I am focusing on improving my backend development, database design, and application architecture skills.
 
 ## Tech Stack
 
